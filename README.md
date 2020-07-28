@@ -3,7 +3,7 @@
 This is a simple C++ class dedicated to work with Linux OS.
 It's useful if you want to pilot a camera, or playing with some graphics and interract with tracking camera.
 
-# Software usage
+## Software usage
 
 Just add the headers, the path of your joystick and the full scale and midpoint values like this:
 
